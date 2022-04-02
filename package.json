@@ -1,0 +1,23 @@
+{
+  "name": "@yonycalsin/analytics-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yonycalsin/analytics-js.git"
+  },
+  "keywords": [
+    "analyics"
+  ],
+  "author": "Yony Calsin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yonycalsin/analytics-js/issues"
+  },
+  "homepage": "https://github.com/yonycalsin/analytics-js#readme",
+  "private": true
+}
