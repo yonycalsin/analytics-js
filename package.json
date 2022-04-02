@@ -19,5 +19,6 @@
     "url": "https://github.com/yonycalsin/analytics-js/issues"
   },
   "homepage": "https://github.com/yonycalsin/analytics-js#readme",
-  "private": true
+  "private": true,
+  "devDependencies": {}
 }
